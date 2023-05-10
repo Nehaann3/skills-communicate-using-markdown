@@ -7,3 +7,6 @@
   "age": 25
 }
 ```
+- [ ] Create a Github account
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
